@@ -4,7 +4,7 @@
     <list default="true" id="d08c6fb0-6eb5-45ee-8703-22e5520a3ff1" name="Default" comment="" />
     <ignored path="testProject.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/index.html" changelist="d08c6fb0-6eb5-45ee-8703-22e5520a3ff1" time="1368825097491" ignored="false" />
+    <file path="/index.html" changelist="d08c6fb0-6eb5-45ee-8703-22e5520a3ff1" time="1368826725603" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +27,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="25" selection-start="685" selection-end="685" vertical-scroll-proportion="0.47030497">
+            <state line="35" column="25" selection-start="686" selection-end="686" vertical-scroll-proportion="0.8426966">
               <folding />
             </state>
           </provider>
@@ -171,13 +171,13 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="562" y="22" width="850" height="808" extended-state="1" />
-    <editor active="false" />
+    <frame x="562" y="22" width="850" height="808" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39419588" sideWeight="0.9985507" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39419588" sideWeight="0.9985507" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32976282" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -286,7 +286,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="25" selection-start="685" selection-end="685" vertical-scroll-proportion="0.47030497">
+        <state line="35" column="25" selection-start="686" selection-end="686" vertical-scroll-proportion="0.8426966">
           <folding />
         </state>
       </provider>
